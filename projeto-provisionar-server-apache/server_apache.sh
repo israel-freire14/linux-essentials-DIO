@@ -5,7 +5,7 @@ echo "Atualizando o servidor..."
 apt-get  update 
 apt-get upgrade -y
 
-echo "Intalando Apache e Unzip."
+echo "Instalando Apache e Unzip."
 
 apt-get install apache2 -y
 apt-get install unzip -y
